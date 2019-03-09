@@ -1,0 +1,27 @@
+{
+  "name": "sitecloud",
+  "version": "1.0.0",
+  "description": "A web application to promote the services of sitecloud.live",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FusionArc/SiteCloud.git"
+  },
+  "keywords": [
+    "Web",
+    "Hosting",
+    "Development",
+    "Domains",
+    "SEO",
+    "Cloud"
+  ],
+  "author": "Dave Cheez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FusionArc/SiteCloud/issues"
+  },
+  "homepage": "https://sitecloud.live"
+}
